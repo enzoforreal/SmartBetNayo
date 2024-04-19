@@ -1,74 +1,64 @@
+readme_content = """
 # SmartBetNaYo
 
 <p align="center">
   <img src="./images/stats_predict.jpg" alt="Probabilité d'un match de football" width="500">
 </p>
 
-**SmartBetNaYo** est une application de prédiction de résultats de matches de football qui utilise des statistiques historiques et l'analyse de Poisson pour fournir des probabilités sur les issues de matchs. Conçue spécialement pour les parieurs sportifs, cette solution aide à faire des paris informés en calculant les chances de différents résultats de match, y compris les scores exacts, les chances de victoire/défaite/nul, et la probabilité que les deux équipes marquent.
+**SmartBetNaYo** is an application for predicting the outcomes of football matches using historical statistics and Poisson analysis to provide probabilities for match outcomes. Designed especially for sports bettors, this tool helps in making informed bets by calculating the odds of various match outcomes including exact scores, win/lose/draw probabilities, and whether both teams will score.
 
-## Fonctionnalités
+## Features
 
-- **Récupération automatique des données de ligue** via l'API-football.
-- **Calcul des probabilités** basé sur la distribution de Poisson pour les scores exacts.
-- **Prédictions de "Both Teams to Score" (BTTS)**.
-- **Estimations des probabilités de sur/sous objectifs (Over/Under Goals)**.
+- **Automatic data retrieval** from the API-football.
+- **Probability calculations** using the Poisson distribution for exact scores.
+- **Predictions for "Both Teams to Score" (BTTS)**.
+- **Estimates for over/under goals probabilities**.
 
-## Technologies Utilisées
+## Technologies Used
 
 - **Python 3**
-- **Bibliothèques Python** : `requests`, `matplotlib`, `numpy`, `scipy`
-- **API-football** pour les données de match en temps réel.
+- **Python Libraries**: `requests`, `matplotlib`, `numpy`, `scipy`
+- **API-football** for real-time match data.
 
-## Comment Utiliser
+## How to Use
 
-Pour utiliser SmartBetNaYo, suivez les étapes suivantes :
+To use SmartBetNaYo, follow these steps:
 
 ```bash
 git clone git@github.com:enzoforreal/SmartBetNaYo.git
 cd SmartBetNaYo
 
-##  Installation
-
-Ensuite, installez les dépendances nécessaires :
-
+Installation
+Then, install the necessary dependencies:
 pip install -r requirements.txt
 
+Contribute
+SmartBetNaYo is open for contributions from developers, statisticians, and sports betting enthusiasts. If you have ideas for improving predictions, integrating artificial intelligence, or optimizing existing algorithms, your input is welcome!
 
+How to Contribute?
 
-Contribuer
-SmartBetNaYo est ouvert aux contributions de développeurs, statisticiens, et passionnés de paris sportifs. Si vous avez des idées pour améliorer les prédictions, intégrer l'intelligence artificielle, ou optimiser les algorithmes existants, votre aide est la bienvenue!
+Fork the project on GitHub.
+Clone your fork locally:
 
-Comment contribuer ?
-Fork le projet sur GitHub.
-Clonez votre fork localement :
-  
-  git clone https://github.com/<your-username>/SmartBetNaYo.git
+git clone https://github.com/<your-username>/SmartBetNaYo.git
+Create a new branch for your changes:
+git checkout -b your_branch_name
 
+Make your changes and modify the necessary files in your local project.
+Commit your changes:
 
-Créez une nouvelle branche pour vos modifications :
+git add .
+git commit -m "Describe your modifications"
 
-  
-  git checkout -b votre_branche
+Push your changes to GitHub:
 
+git push origin your_branch_name
 
-Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
-Committez vos modifications :
+Open a Pull Request to merge your changes: Go to your fork on GitHub, click on 'Pull Request' then 'New Pull Request'. Select your branch and proceed by clicking 'Create pull request'.
+We appreciate your ideas and encouragement to improve SmartBetNaYo! All contributions help make the application more effective and useful for everyone.
 
-  
-  git add .
-  git commit -m "Description des modifications"
+License
+This project is licensed under the MIT License. For more details, see the LICENSE file. """
 
-
-Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
-Committez vos modifications :
-
-  
-  git push origin <nom_de_votre_branche>
-
-Ouvrez une Pull Request pour merger vos modifications :
-Accédez à votre fork sur GitHub, cliquez sur 'Pull Request' et ensuite sur 'New Pull Request'. Choisissez votre branche et validez en cliquant sur 'Create pull request'.
-
-Nous apprécions vos idées et encouragements à améliorer SmartBetNaYo! :
-
-Toute contribution est bienvenue et aide à rendre l'application plus efficace et utile pour tous.
+Write the README.md content to a file
 
