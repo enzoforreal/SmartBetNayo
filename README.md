@@ -27,11 +27,10 @@ Pour utiliser SmartBetNaYo, suivez les étapes suivantes :
 git clone git@github.com:enzoforreal/SmartBetNaYo.git
 cd SmartBetNaYo
 
-
-## Installation
+##  Installation
 
 Ensuite, installez les dépendances nécessaires :
-```bash
+
 pip install -r requirements.txt
 
 
@@ -42,20 +41,20 @@ SmartBetNaYo est ouvert aux contributions de développeurs, statisticiens, et pa
 Comment contribuer ?
 Fork le projet sur GitHub.
 Clonez votre fork localement :
-  ```bash
+  
   git clone https://github.com/<your-username>/SmartBetNaYo.git
 
 
 Créez une nouvelle branche pour vos modifications :
 
-  ```bash
+  
   git checkout -b votre_branche
 
 
 Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
 Committez vos modifications :
 
-  ```bash
+  
   git add .
   git commit -m "Description des modifications"
 
@@ -63,7 +62,7 @@ Committez vos modifications :
 Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
 Committez vos modifications :
 
-  ```bash
+  
   git push origin <nom_de_votre_branche>
 
 Ouvrez une Pull Request pour merger vos modifications :
