@@ -31,39 +31,43 @@ cd SmartBetNaYo
 ## Installation
 
 Ensuite, installez les dépendances nécessaires :
-
 ```bash
 pip install -r requirements.txt
 
 
-## Contribuer
 
-SmartBetNaYo est ouvert aux contributions de développeurs, statisticiens, et passionnés de paris sportifs. Si vous avez des idées pour améliorer les prédictions, intégrer l'intelligence artificielle, ou optimiser les algorithmes existants, votre aide est la bienvenue !
+Contribuer
+SmartBetNaYo est ouvert aux contributions de développeurs, statisticiens, et passionnés de paris sportifs. Si vous avez des idées pour améliorer les prédictions, intégrer l'intelligence artificielle, ou optimiser les algorithmes existants, votre aide est la bienvenue!
 
-### Comment contribuer ?
-- **Fork** le projet sur GitHub.
-- **Clonez** votre fork localement :
+Comment contribuer ?
+Fork le projet sur GitHub.
+Clonez votre fork localement :
   ```bash
   git clone https://github.com/<your-username>/SmartBetNaYo.git
 
-- **Créez une nouvelle branche** pour vos modifications :
+
+Créez une nouvelle branche pour vos modifications :
+
   ```bash
   git checkout -b votre_branche
 
-- **Faites vos modifications** : Modifiez les fichiers nécessaires dans votre projet local.
 
-- **Committez-les** :
+Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
+Committez vos modifications :
+
   ```bash
   git add .
   git commit -m "Description des modifications"
 
-- **Push vos modifications sur GitHub** :
+
+Faites vos modifications et modifiez les fichiers nécessaires dans votre projet local.
+Committez vos modifications :
+
   ```bash
   git push origin <nom_de_votre_branche>
 
 Ouvrez une Pull Request pour merger vos modifications :
-
-Accédez à votre fork sur GitHub. Cliquez sur 'Pull Request' et ensuite sur 'New Pull Request'. Choisissez votre branche et validez en cliquant sur 'Create pull request'.
+Accédez à votre fork sur GitHub, cliquez sur 'Pull Request' et ensuite sur 'New Pull Request'. Choisissez votre branche et validez en cliquant sur 'Create pull request'.
 
 Nous apprécions vos idées et encouragements à améliorer SmartBetNaYo! :
 
