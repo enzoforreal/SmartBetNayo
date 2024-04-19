@@ -32,7 +32,7 @@ Ensuite, installez les dépendances nécessaires :
 
 pip install -r requirements.txt
 
-Contribuer
+## Contribuer
 
 SmartBetNaYo est ouvert aux contributions de développeurs, statisticiens, et passionnés de paris sportifs. Si vous avez des idées pour améliorer les prédictions, intégrer l'intelligence artificielle, ou optimiser les algorithmes existants, votre aide est la bienvenue !
 
@@ -46,6 +46,6 @@ Ouvrez une Pull Request pour merger vos modifications
 Nous apprécions vos idées et encouragements à améliorer SmartBetNaYo !
 
 
-Licence
+## Licence
 
 Ce projet est sous licence MIT. Pour plus de détails, voir le fichier LICENCE.
