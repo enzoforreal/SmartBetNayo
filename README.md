@@ -32,7 +32,10 @@ Then, install the necessary dependencies:
 pip install -r requirements.txt
 
 Contribute
-SmartBetNaYo is open for contributions from developers, statisticians, and sports betting enthusiasts. If you have ideas for improving predictions, integrating artificial intelligence, or optimizing existing algorithms, your input is welcome!
+
+SmartBetNaYo is open for contributions from developers, statisticians, and sports betting enthusiasts. 
+If you have ideas for improving predictions, integrating artificial intelligence, 
+or optimizing existing algorithms, your input is welcome!
 
 How to Contribute?
 
