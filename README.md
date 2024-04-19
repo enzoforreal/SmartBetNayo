@@ -1,4 +1,3 @@
-readme_content = """
 # SmartBetNaYo
 
 <p align="center">
@@ -58,7 +57,7 @@ Open a Pull Request to merge your changes: Go to your fork on GitHub, click on '
 We appreciate your ideas and encouragement to improve SmartBetNaYo! All contributions help make the application more effective and useful for everyone.
 
 License
-This project is licensed under the MIT License. For more details, see the LICENSE file. """
+This project is licensed under the MIT License. For more details, see the LICENSE file. 
 
-Write the README.md content to a file
+
 
